@@ -41,12 +41,11 @@ function test(){
   });
 }
 $(document).ready(function(){
-
   var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   if (isMobile) {
     setMobileDimensions();
     $(window).resize(function(){
-      setMobileDimensions();
+
     });
 
 
@@ -58,7 +57,7 @@ $(document).ready(function(){
     });
   }
 
-  $("a").on('click', function(event) {
+  $(".navA").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
@@ -79,4 +78,5 @@ $(document).ready(function(){
       });
     } // End if
   })
+
 });
