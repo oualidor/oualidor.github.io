@@ -44,7 +44,7 @@ $(document).ready(function(){
   if (isMobile) {
     setMobileDimensions();
     $(window).resize(function(){
-
+      setMobileDimensions();
     });
 
 
