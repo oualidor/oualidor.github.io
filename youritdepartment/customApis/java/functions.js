@@ -5,12 +5,11 @@ function setDimenstions(){
   var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
   var h = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
 
-
-
     if(w>1100){
 
 
     }else{
+      alert("small")
       w=1100;
     }
 
@@ -33,7 +32,7 @@ function setMobileDimensions(){
 }
 
 function test(){
-  $('.homeText').textillate({
+  $('.toAnimate').textillate({
     minDisplayTime: 200,
     in: { effect: 'flipInX', sync: true },
     out :{  delay: 1, effect: 'tada', sync: true},
