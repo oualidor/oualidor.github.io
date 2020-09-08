@@ -9,7 +9,6 @@ function setDimenstions(){
 
 
     }else{
-      alert("small")
       w=1100;
     }
 
