@@ -1,5 +1,3 @@
-
-
 function setDimenstions(){
 
   var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
@@ -28,6 +26,7 @@ function setMobileDimensions(){
 
   $('body').css("height", h+"px");
   $('body').css("width", w+"px");
+
 }
 
 function test(){
@@ -38,6 +37,7 @@ function test(){
     loop: true
   });
 }
+
 $(document).ready(function(){
   var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   if (isMobile) {
