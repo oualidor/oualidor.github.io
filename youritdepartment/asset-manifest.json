@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/youritdepartment/static/css/main.d0e48d47.chunk.css",
-    "main.js": "/youritdepartment/static/js/main.ae3a7bae.chunk.js",
-    "main.js.map": "/youritdepartment/static/js/main.ae3a7bae.chunk.js.map",
+    "main.css": "/youritdepartment/static/css/main.ae89edb1.chunk.css",
+    "main.js": "/youritdepartment/static/js/main.77e730fa.chunk.js",
+    "main.js.map": "/youritdepartment/static/js/main.77e730fa.chunk.js.map",
     "runtime-main.js": "/youritdepartment/static/js/runtime-main.20255d09.js",
     "runtime-main.js.map": "/youritdepartment/static/js/runtime-main.20255d09.js.map",
-    "static/js/2.89006bf6.chunk.js": "/youritdepartment/static/js/2.89006bf6.chunk.js",
-    "static/js/2.89006bf6.chunk.js.map": "/youritdepartment/static/js/2.89006bf6.chunk.js.map",
+    "static/js/2.da862ddf.chunk.js": "/youritdepartment/static/js/2.da862ddf.chunk.js",
+    "static/js/2.da862ddf.chunk.js.map": "/youritdepartment/static/js/2.da862ddf.chunk.js.map",
     "index.html": "/youritdepartment/index.html",
-    "precache-manifest.3f17e234ec1f8c143b2148b2fb395dc3.js": "/youritdepartment/precache-manifest.3f17e234ec1f8c143b2148b2fb395dc3.js",
+    "precache-manifest.6a21ce6f8902badad5ac68ae24a00b32.js": "/youritdepartment/precache-manifest.6a21ce6f8902badad5ac68ae24a00b32.js",
     "service-worker.js": "/youritdepartment/service-worker.js",
-    "static/css/main.d0e48d47.chunk.css.map": "/youritdepartment/static/css/main.d0e48d47.chunk.css.map",
-    "static/js/2.89006bf6.chunk.js.LICENSE.txt": "/youritdepartment/static/js/2.89006bf6.chunk.js.LICENSE.txt",
+    "static/css/main.ae89edb1.chunk.css.map": "/youritdepartment/static/css/main.ae89edb1.chunk.css.map",
+    "static/js/2.da862ddf.chunk.js.LICENSE.txt": "/youritdepartment/static/js/2.da862ddf.chunk.js.LICENSE.txt",
     "static/media/App-development.png": "/youritdepartment/static/media/App-development.ccc27e88.png",
-    "static/media/aboutUS2.gif": "/youritdepartment/static/media/aboutUS2.9336ed4a.gif",
+    "static/media/aboutUs.png": "/youritdepartment/static/media/aboutUs.c75dbb5d.png",
     "static/media/arch.png": "/youritdepartment/static/media/arch.d5c398a6.png",
     "static/media/brain.png": "/youritdepartment/static/media/brain.23f4fce9.png",
+    "static/media/contactUs.png": "/youritdepartment/static/media/contactUs.3cb650e3.png",
     "static/media/ecomerce1.jpg": "/youritdepartment/static/media/ecomerce1.c504a8e0.jpg",
     "static/media/ecomerce2.jpg": "/youritdepartment/static/media/ecomerce2.da8d70ce.jpg",
     "static/media/logoBlue.svg": "/youritdepartment/static/media/logoBlue.079a1b54.svg",
@@ -31,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.20255d09.js",
-    "static/js/2.89006bf6.chunk.js",
-    "static/css/main.d0e48d47.chunk.css",
-    "static/js/main.ae3a7bae.chunk.js"
+    "static/js/2.da862ddf.chunk.js",
+    "static/css/main.ae89edb1.chunk.css",
+    "static/js/main.77e730fa.chunk.js"
   ]
 }
